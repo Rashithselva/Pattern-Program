@@ -11,7 +11,7 @@ public class Printstar {
                     System.out.print("* ");
                 }
                 else{
-                    System.out.println(" ");
+                    System.out.println("  ");
                 } 
             }
             System.out.println( );
